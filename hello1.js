@@ -3,3 +3,4 @@ let message = "Hello from " + course + "!";
 console.log(message);
 console.log("This JavaScript runs on MY machine.");
 console.log("Chase");
+console.log("08-10-2026");
